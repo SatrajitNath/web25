@@ -1,0 +1,16 @@
+[
+{
+	"name": "Samrat",
+	"email": "nath.samrat1994@gmail.com",
+	"contact": "9874621382",
+	"courseCount": 4,
+	"isVerified": true
+},
+{
+	"name": "Satrajit",
+	"email": "satrajit748@gmail.com",
+	"contact": "8777467325",
+	"courseCount": 2,
+	"isVerified": false
+}
+]
